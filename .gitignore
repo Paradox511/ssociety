@@ -1,0 +1,14 @@
+# Backend (Java)
+backend/target/
+backend/.idea/
+backend/.project
+backend/.classpath
+
+# Frontend (Angular)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+
+# System files
+.DS_Store
+*.log
